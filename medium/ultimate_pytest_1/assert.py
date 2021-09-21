@@ -3,4 +3,4 @@
 
 >>> assert 5 == 4
 AssertionError
-# Statement is False no an AssertionError is raised
+# Statement is False so an AssertionError is raised
